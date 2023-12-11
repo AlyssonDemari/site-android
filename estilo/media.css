@@ -1,0 +1,23 @@
+@media screen and (max-width: 760px){
+
+    nav ul{
+        display: flex;
+    }
+    
+    nav li{
+        padding: 0px 5px;
+    }
+    
+    nav a{
+        font-family: var(--fonte-padrao);
+        font-weight: bolder;
+        color: white;
+        text-decoration: none;
+        list-style: none;
+        padding: 5px;
+    }
+
+    img{
+        width: 380px;
+    }
+}
