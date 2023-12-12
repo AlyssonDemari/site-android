@@ -9,6 +9,6 @@ ESTUDOS
 - Menu de navegação 
 - Video Respansivo
 - Uso do Root
-- Uso do <abbr>
+- Uso do abbr
 - Estilo de listas 
 - Uso de links para sites externos 
